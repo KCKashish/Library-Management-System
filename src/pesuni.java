@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author khushikiran
- */
+
 public class pesuni extends javax.swing.JFrame {
 
     /**
